@@ -1,0 +1,78 @@
+{
+    "profiles": [
+        {
+            "id": 1,
+            "name": "BLUE",
+            "job": "FE DEVELOPER",
+            "img": "img/member1.svg"
+        },
+        {
+            "id": 2,
+            "name": "PINK",
+            "job": "BE DEVELOPER",
+            "img": "img/member2.svg"
+        },
+        {
+            "id": 3,
+            "name": "PURPLE",
+            "job": "DB ENGINEER",
+            "img": "img/member3.svg"
+        },
+        {
+            "id": 4,
+            "name": "GREEN",
+            "job": "PROJECT MANAGER",
+            "img": "img/member4.svg"
+        },
+        {
+            "id": 5,
+            "name": "YELLOW",
+            "job": "UI/UX DESIGNER",
+            "img": "img/member5.svg"
+        },
+        {
+            "id": 6,
+            "name": "GREEN",
+            "job": "CUSTOMER SERVICE",
+            "img": "img/member6.png"
+        }
+    ],
+    "introductions": [
+        {
+            "id": 1,
+            "career": "● Lorem ipsum dolor sit amet, consectetur adipiscing elit.\\r\\n● Vivamus condimentum libero gravida odio viverra, ut molestie ipsum cursus.\\n● Donec porttitor augue sit amet sapien aliquet maximus.\\n● Fusce accumsan enim sed risus scelerisque convallis.\\n● Nunc mattis elit vitae elementum gravida.\\n● Morbi tincidunt dolor non lacus pharetra, et mollis eros dapibus.",
+            "project": "● Lorem ipsum dolor sit amet, consectetur adipiscing elit.\\n● Vivamus condimentum libero gravida odio viverra, ut molestie ipsum cursus.\\n● Donec porttitor augue sit amet sapien aliquet maximus.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ex orci, congue eu justo ut, pellentesque ornare lorem. Sed nec lectus eu augue malesuada egestas vel vitae nisi. Donec dignissim sagittis nisl non vehicula. Donec eleifend maximus orci, at aliquam tortor efficitur vel. Sed vel mauris eu ante tempor malesuada. Curabitur rhoncus elit ac convallis tempor. Nulla leo lacus, finibus in lacus in, egestas hendrerit augue. Praesent pretium ante aliquam sem malesuada varius. Pellentesque vehicula eu lacus vulputate pellentesque."
+        },
+        {
+            "id": 2,
+            "career": "",
+            "project": "",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "career": "",
+            "project": "",
+            "description": ""
+        },
+        {
+            "id": 4,
+            "career": "",
+            "project": "",
+            "description": ""
+        },
+        {
+            "id": 5,
+            "career": "",
+            "project": "",
+            "description": ""
+        },
+        {
+            "id": 6,
+            "career": "",
+            "project": "",
+            "description": ""
+        }
+    ]
+}
